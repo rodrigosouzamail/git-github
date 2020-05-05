@@ -48,4 +48,34 @@ Para criar link
 
 Para adicionar imagens e animações utilizamos ![octocat-github](https://github.com/rodrigosouzamail/git-github/blob/master/github_icon.png)
 
+Para fazer tabelas segue abaixo
+
+Num | Nome | Nota
+---|---|---
+1 | Gustavo | 8,5
+2 | José | 10,0
+
+
+Para apresentar comandos de linguagem de programação
+`document.getElementById()`
+
+Trecho do código em destaque
+
+```
+num = int(input('Digite um valor: ')
+if num % 2 == 0:
+   print(f'O valor {num} é PAR')
+else:
+   print(f'O valor {num} é IMPAR')
+
+```
+Como colocar emojis
+
+https://github.com/rodrigosouzamail/emoji-cheat-sheet
+
+:smirk:
+
+https://emojipedia.org/
+
+
 
