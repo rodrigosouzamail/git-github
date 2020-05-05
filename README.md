@@ -77,5 +77,9 @@ https://github.com/rodrigosouzamail/emoji-cheat-sheet
 
 https://emojipedia.org/
 
+Sinal de > vira uma marcação inicial.
+>será que vai chover 
+
+
 
 
