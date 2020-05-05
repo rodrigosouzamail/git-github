@@ -45,5 +45,5 @@ Lista de Tarefas:
 Para criar link
 [texto do link](https://github.com/rodrigosouzamail)
 
-Para adicionar imagens e animações utilizamos ![Teste](https://github.com/rodrigosouzamail/git-github/blob/master/octocat-filled-icon-github-icon-svg-11553443886f4krecogcv.png)
+Para adicionar imagens e animações utilizamos ![Teste](https://github.com/rodrigosouzamail/git-github/blob/master/github_icon.png)
 
